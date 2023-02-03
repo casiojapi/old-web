@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>casiojapi website</title>
+    <link>http://casiojapi.github.io/</link>
+    <description>Recent content on casiojapi website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Feb 2023 20:33:47 -0300</lastBuildDate><atom:link href="http://casiojapi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>la test</title>
+      <link>http://casiojapi.github.io/posts/test/</link>
+      <pubDate>Thu, 02 Feb 2023 20:33:47 -0300</pubDate>
+      
+      <guid>http://casiojapi.github.io/posts/test/</guid>
+      <description>el test</description>
+      <content>&lt;p&gt;el test&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
