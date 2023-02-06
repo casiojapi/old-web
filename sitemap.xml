@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://casiojapi.github.io/</loc>
+    <lastmod>2023-02-06T15:22:08-03:00</lastmod>
+  </url><url>
+    <loc>https://casiojapi.github.io/posts/hola/</loc>
+    <lastmod>2023-02-06T15:22:08-03:00</lastmod>
+  </url><url>
+    <loc>https://casiojapi.github.io/posts/</loc>
+    <lastmod>2023-02-06T15:22:08-03:00</lastmod>
+  </url><url>
     <loc>https://casiojapi.github.io/monero/</loc>
     <lastmod>2023-02-06T11:44:38-03:00</lastmod>
   </url><url>
@@ -10,8 +19,6 @@
   </url><url>
     <loc>https://casiojapi.github.io/donate/</loc>
     <lastmod>2023-02-06T10:35:40-03:00</lastmod>
-  </url><url>
-    <loc>https://casiojapi.github.io/</loc>
   </url><url>
     <loc>https://casiojapi.github.io/categories/</loc>
   </url><url>
