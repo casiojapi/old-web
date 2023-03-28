@@ -9,12 +9,13 @@
     <lastBuildDate>Mon, 06 Feb 2023 15:22:08 -0300</lastBuildDate><atom:link href="https://casiojapi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Image Gallery</title>
-      <link>https://casiojapi.github.io/gallery/</link>
+      <link>https://casiojapi.github.io/foto/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://casiojapi.github.io/gallery/</guid>
-      <description>hola</description>
-      <content>&lt;p&gt;hola&lt;/p&gt;
+      <guid>https://casiojapi.github.io/foto/</guid>
+      <description>mi proyecto de foto, mint jams. Aca algunas fotos. Mas en instagram: @mint_jams.</description>
+      <content>
+        &lt;p&gt;mi proyecto de foto, mint jams. Aca algunas fotos. Mas en instagram: &lt;a target=&#34;_blank&#34; href=&#34;https://instagram.com/mint_jams&#34;&gt;@mint_jams&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -76,18 +77,6 @@
 &lt;li&gt;podcast monero talk - &lt;a href=&#34;https://www.youtube.com/@MoneroTalk&#34;&gt;https://www.youtube.com/@MoneroTalk&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;un blog de noticias de monero - &lt;a href=&#34;https://www.themoneromoon.com/&#34;&gt;https://www.themoneromoon.com/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>foto</title>
-      <link>https://casiojapi.github.io/fotogrtest/</link>
-      <pubDate>Mon, 06 Feb 2023 10:37:03 -0300</pubDate>
-      
-      <guid>https://casiojapi.github.io/fotogrtest/</guid>
-      <description> </description>
-      <content>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
 </content>
     </item>
     
@@ -160,17 +149,6 @@ ok bumper - a free fall game that lets you press space to generate a random vect
       <guid>https://casiojapi.github.io/donate/</guid>
       <description>donate me </description>
       <content>&lt;h1 id=&#34;donate-me&#34;&gt;donate me&lt;/h1&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>foto</title>
-      <link>https://casiojapi.github.io/foto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://casiojapi.github.io/foto/</guid>
-      <description>hola</description>
-      <content>&lt;p&gt;hola&lt;/p&gt;
 </content>
     </item>
     
