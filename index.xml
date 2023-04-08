@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>casioweb</title>
-    <link>https://casiojapi.github.io/</link>
+    <link>https://casiojapi.xyz/</link>
     <description>Recent content on casioweb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2023 15:22:08 -0300</lastBuildDate><atom:link href="https://casiojapi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 15:22:08 -0300</lastBuildDate><atom:link href="https://casiojapi.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Image Gallery</title>
-      <link>https://casiojapi.github.io/foto/</link>
+      <link>https://casiojapi.xyz/foto/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://casiojapi.github.io/foto/</guid>
+      <guid>https://casiojapi.xyz/foto/</guid>
       <description>mi proyecto de foto, mint jams. Aca algunas fotos. Mas en instagram: @mint_jams.</description>
       <content>
         &lt;p&gt;mi proyecto de foto, mint jams. Aca algunas fotos. Mas en instagram: &lt;a target=&#34;_blank&#34; href=&#34;https://instagram.com/mint_jams&#34;&gt;@mint_jams&lt;/a&gt;.&lt;/p&gt;
@@ -21,10 +21,10 @@
     
     <item>
       <title>hola :)</title>
-      <link>https://casiojapi.github.io/posts/hola/</link>
+      <link>https://casiojapi.xyz/posts/hola/</link>
       <pubDate>Mon, 06 Feb 2023 15:22:08 -0300</pubDate>
       
-      <guid>https://casiojapi.github.io/posts/hola/</guid>
+      <guid>https://casiojapi.xyz/posts/hola/</guid>
       <description>La idea de la sección “blog” de esta página es escribir un poco sobre herramientas y conceptos que podemos usar para poner en práctica la filosofía del gordo monedita. Los gordos odiamos a los bancos, a los super estados que controlan todo lo que haces con tu platita, el KYC innecesario, las medidas AML, la WEF y el “you will own nothing and be happy”.
 ¿Qué hacemos en el día a día para frenar esto o hacer un “opt-out”?</description>
       <content>&lt;p&gt;La idea de la sección “blog” de esta página es escribir un poco sobre herramientas y conceptos que podemos usar para poner en práctica la filosofía del gordo monedita. Los gordos odiamos a los bancos, a los super estados que controlan todo lo que haces con tu platita, el &lt;a href=&#34;https://en.wikipedia.org/wiki/Know_your_customer&#34;&gt;KYC&lt;/a&gt; innecesario, las medidas &lt;a href=&#34;https://en.wikipedia.org/wiki/Money_laundering#Combating&#34;&gt;AML&lt;/a&gt;, la &lt;a href=&#34;https://en.wikipedia.org/wiki/World_Economic_Forum&#34;&gt;WEF&lt;/a&gt; y el &lt;a href=&#34;https://knowyourmeme.com/memes/youll-own-nothing-and-be-happy&#34;&gt;&lt;em&gt;“you will own nothing and be happy”&lt;/em&gt;&lt;/a&gt;.&lt;br&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>monero</title>
-      <link>https://casiojapi.github.io/monero/</link>
+      <link>https://casiojapi.xyz/monero/</link>
       <pubDate>Mon, 06 Feb 2023 11:44:38 -0300</pubDate>
       
-      <guid>https://casiojapi.github.io/monero/</guid>
+      <guid>https://casiojapi.xyz/monero/</guid>
       <description>Wallet monero gui (desktop) - https://www.getmonero.org/downloads/ cake wallet (mobile) - https://cakewallet.com/ Miner XMRIG - https://xmrig.com/ Mining Pools moneroocean - https://moneroocean.stream/ p2pool - https://p2pool.io/#help Bridges fixedfloat - https://fixedfloat.com/ trocador - https://trocador.app/ Data relevante para el gordo low-tech getmonero (sobre todo el get started) - https://www.getmonero.org/ subreddit de mining en monero - https://www.reddit.com/r/MoneroMining/ subreddit de xmrig android - https://www.reddit.com/r/XMRigForAndroid/ podcast monero talk - https://www.youtube.com/@MoneroTalk un blog de noticias de monero - https://www.themoneromoon.com/ </description>
       <content>&lt;h2 id=&#34;wallet&#34;&gt;Wallet&lt;/h2&gt;
 &lt;ul&gt;
@@ -82,10 +82,10 @@
     
     <item>
       <title>projects</title>
-      <link>https://casiojapi.github.io/projects/</link>
+      <link>https://casiojapi.xyz/projects/</link>
       <pubDate>Mon, 06 Feb 2023 10:37:03 -0300</pubDate>
       
-      <guid>https://casiojapi.github.io/projects/</guid>
+      <guid>https://casiojapi.xyz/projects/</guid>
       <description>software c-synth - a command line synthesizer written in C: github repo.
 vector graphica - a scene generator and renderer that may be used for creating artworks for vaporwave related content: github repo.
 music bokki - lofi/ambient/vaporwave music project: spotify.
@@ -143,10 +143,10 @@ ok bumper - a free fall game that lets you press space to generate a random vect
     
     <item>
       <title>donate</title>
-      <link>https://casiojapi.github.io/donate/</link>
+      <link>https://casiojapi.xyz/donate/</link>
       <pubDate>Mon, 06 Feb 2023 10:35:40 -0300</pubDate>
       
-      <guid>https://casiojapi.github.io/donate/</guid>
+      <guid>https://casiojapi.xyz/donate/</guid>
       <description>donate me </description>
       <content>&lt;h1 id=&#34;donate-me&#34;&gt;donate me&lt;/h1&gt;
 </content>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on casioweb</title>
-    <link>https://casiojapi.github.io/posts/</link>
+    <link>https://casiojapi.xyz/posts/</link>
     <description>Recent content in Posts on casioweb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2023 15:22:08 -0300</lastBuildDate><atom:link href="https://casiojapi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 15:22:08 -0300</lastBuildDate><atom:link href="https://casiojapi.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hola :)</title>
-      <link>https://casiojapi.github.io/posts/hola/</link>
+      <link>https://casiojapi.xyz/posts/hola/</link>
       <pubDate>Mon, 06 Feb 2023 15:22:08 -0300</pubDate>
       
-      <guid>https://casiojapi.github.io/posts/hola/</guid>
+      <guid>https://casiojapi.xyz/posts/hola/</guid>
       <description>La idea de la sección “blog” de esta página es escribir un poco sobre herramientas y conceptos que podemos usar para poner en práctica la filosofía del gordo monedita. Los gordos odiamos a los bancos, a los super estados que controlan todo lo que haces con tu platita, el KYC innecesario, las medidas AML, la WEF y el “you will own nothing and be happy”.
 ¿Qué hacemos en el día a día para frenar esto o hacer un “opt-out”?</description>
       <content>&lt;p&gt;La idea de la sección “blog” de esta página es escribir un poco sobre herramientas y conceptos que podemos usar para poner en práctica la filosofía del gordo monedita. Los gordos odiamos a los bancos, a los super estados que controlan todo lo que haces con tu platita, el &lt;a href=&#34;https://en.wikipedia.org/wiki/Know_your_customer&#34;&gt;KYC&lt;/a&gt; innecesario, las medidas &lt;a href=&#34;https://en.wikipedia.org/wiki/Money_laundering#Combating&#34;&gt;AML&lt;/a&gt;, la &lt;a href=&#34;https://en.wikipedia.org/wiki/World_Economic_Forum&#34;&gt;WEF&lt;/a&gt; y el &lt;a href=&#34;https://knowyourmeme.com/memes/youll-own-nothing-and-be-happy&#34;&gt;&lt;em&gt;“you will own nothing and be happy”&lt;/em&gt;&lt;/a&gt;.&lt;br&gt;
